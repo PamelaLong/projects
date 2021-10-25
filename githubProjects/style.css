@@ -1,6 +1,10 @@
-.h1 {
+h1{
     display: grid;
-    color: blue;
-    background-color: darkorange;
-    
-}
+    align-items: center;
+};
+
+.contextContainer {
+    display: flex;
+    color: red;
+    align-items: center;
+};
